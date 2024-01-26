@@ -54,7 +54,7 @@ This application is designed to manage expenses among a group of users. Used Fla
 
 - ExpenseManager: Manages users, expenses, and balances with methods for adding users, adding expenses, updating balances and retrieving balance information.
 
-## API Contracts : API endpoints
+## API endpoints
 
 ### Add User
 
